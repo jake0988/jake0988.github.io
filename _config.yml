@@ -1,11 +1,11 @@
 # Site settings
-author: Jake G
-title: 
+author: Jake
+title: Life and Times of a New Programmer
 header-img: img/home-bg.png
 email: jake098877@gmail.com
-copyright_name: Jake G
+copyright_name: Jake
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Subtitling the subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jake0988
