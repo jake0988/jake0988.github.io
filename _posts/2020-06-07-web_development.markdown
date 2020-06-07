@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Web development"
-date:       2020-06-07 18:25:59 +0000
+date:       2020-06-07 14:26:00 -0400
 permalink:  web_development
 ---
 
 
-The web is constantly changing, and a lot of trends I used to enjoy seem to have virtually disappeared, while at the same time, new and interesting ones have surfaced. There is so much potential in the ways that users can interact with the web as it stands now, as speed and processing power continue to advance, the future of human, computer, and web interaction will only expand in scope.
+The web is constantly changing, and a lot of trends I used to enjoy seem to have virtually disappeared. At the same time, new and interesting trends have surfaced. There is so much potential in the ways that users can interact with the web as it stands now, as speed and processing power continue to advance, the future of human, computer, and web interaction will only expand in scope.
 
 
 As I’m looking to start a career in tech, the web influenced reality we live in, leads me to believe that web programming is an excellent choice of what part of the tech industry I should start learning. Web programming offers some of the most interesting and versatile potential careers out there. In addition, it is hard to imagine how the web will not continue to expand and improve. Although the job market is impossible to accurately predict, the need for programmers should stay strong. With all this in mind, it seems like an easy decision to start learning web programming.
