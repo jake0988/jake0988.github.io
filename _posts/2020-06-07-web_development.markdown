@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Web development"
+title:      "Software development"
 date:       2020-06-07 14:26:00 -0400
 permalink:  web_development
 ---
