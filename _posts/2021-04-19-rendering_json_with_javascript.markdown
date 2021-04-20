@@ -8,20 +8,20 @@ permalink:  rendering_json_with_javascript
 
 In order to create a single page web app with JavaScript, our html index page only needs one element. From this element we can attach an unlimited amount code. In some cases it may be much simpler if our index has more html elements to create a skeleton for our JavaScript to attach to, but this example will only deal with a single list.
 This example uses only a single <div>.
-[](http://imgur.com/3wZMxW2)
+![](http://imgur.com/3wZMxW2)
 Notice that the div has an id of “example.”
 
 From that div we need to attach all of the code in this example.
 First, add an event listener, so that when the page loads a <button> element is created.
-[](http://imgur.com/3wZMxW2)
+![](http://imgur.com/3wZMxW2)
 On page load, we find the div, create a <button> element, format the <button>, and attach it to the div.
-[](http://imgur.com/mcWB5hE)
+![](http://imgur.com/mcWB5hE)
 The webage now has a <button> element.
 
 Now we want the <button> to be clickable, so we create another event listener that responds to mouse clicks. However, because our listener is attached to the document node, anywhere on the webpage will respond equally to the click. We can make it so that the code only responds to <button> clicks by using a an if statement to see if the click event came from the <button>.
-[](http://imgur.com/fCtnPyA)
+![](http://imgur.com/fCtnPyA)
 
-[](http://imgur.com/2xdVfun)
+![](http://imgur.com/2xdVfun)
 In order to find out what to look for when checking for equality in the if state, use Chrome's debugger to see a list of possible queries to use.
 
 
