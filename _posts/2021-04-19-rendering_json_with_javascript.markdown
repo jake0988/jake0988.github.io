@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rendering JSON With Javascript"
-date:       2021-04-20 00:53:38 +0000
+date:       2021-04-19 20:53:38 -0400
 permalink:  rendering_json_with_javascript
 ---
 
