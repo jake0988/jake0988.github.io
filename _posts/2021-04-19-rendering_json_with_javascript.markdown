@@ -8,7 +8,7 @@ permalink:  rendering_json_with_javascript
 
 In order to create a single page web app with JavaScript, our html index page only needs one element. From this element we can attach an unlimited amount code. In some cases it may be much simpler if our index has more html elements to create a skeleton for our JavaScript to attach to, but this example will only deal with a single list.
 This example uses only a single div.
-![](http://imgur.com/3wZMxW2)
+(http://imgur.com/3wZMxW2)
 Notice that the div has an id of “example.”
 
 From that div we need to attach all of the code in this example.
